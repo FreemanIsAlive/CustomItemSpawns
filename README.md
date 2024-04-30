@@ -1,6 +1,6 @@
 # CustomItemSpawns
 
-This EXILED plugin allows server owners to specify custom spawns for items.
+This [EXILED](https://github.com/Exiled-Team/EXILED) plugin allows server owners to specify custom spawns for items.
 
 For each item, you can specify the room and its offset from a room’s coordinates.
 
